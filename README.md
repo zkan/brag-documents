@@ -4,7 +4,7 @@ Inspired by [Get your work recognized: write a brag document](https://jvns.ca/bl
 
 ปี 2021-2022
 
-* สร้าง Data Platform ให้กับที่ธนาคารแห่งหนึ่ง
+* สร้าง Data Platform ให้กับธนาคารแห่งหนึ่ง
   * Airflow
   * Amazon S3
   * Google BigQuery
