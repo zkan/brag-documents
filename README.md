@@ -23,6 +23,10 @@ Mar 30, 2022
 
 * เรียนคอร์ส [Udacity Data Engineering Nanodegree](https://graduation.udacity.com/confirm/DX2LZHEW) จบ
 
+## Courses
+
+* [Automating Your Data Pipelines with Apache Airflow](https://www.skooldio.com/workshops/automating-your-data-pipelines-with-apache-airflow) @ Skooldio
+
 ## Talks
 
 * Sawasdee dbt: The Data Transformation Tool that Makes Analytics Engineering Easier  @ Dev Mountain Tech Festival 2022 ([YouTube](https://www.youtube.com/watch?v=0Zv9AoS8MIg))
