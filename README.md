@@ -18,3 +18,7 @@ Inspired by [Get your work recognized: write a brag document](https://jvns.ca/bl
   * CKAN
   * Prometheus
   * Grafana
+
+Mar 30, 2022
+
+* เรียนคอร์ส [Udacity Data Engineering Nanodegree](https://graduation.udacity.com/confirm/DX2LZHEW) จบ
