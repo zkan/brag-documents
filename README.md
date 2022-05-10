@@ -25,13 +25,13 @@ Mar 30, 2022
 * เรียนคอร์ส [Udacity Data Engineering
   Nanodegree](https://graduation.udacity.com/confirm/DX2LZHEW) จบ
 
-## Courses
+## My Courses
 
 * [Automating Your Data Pipelines with Apache
   Airflow](https://www.skooldio.com/workshops/automating-your-data-pipelines-with-apache-airflow)
   @ Skooldio
 
-## Talks
+## My Talks
 
 * Sawasdee dbt: The Data Transformation Tool that Makes Analytics Engineering
   Easier  @ Dev Mountain Tech Festival 2022
@@ -43,7 +43,7 @@ Mar 30, 2022
 * How We Start Building a Data-Informed Culture with Airflow @ PyCon Thailand
   2019 ([YouTube](https://www.youtube.com/watch?v=X9GWplnIBM0))
 
-## Call for Proposals (CFPs)
+## My Call for Proposals (CFPs)
 
 Please check [my accepted and rejected conference talk proposals from various
 conferences](https://github.com/zkan/cfps) out.
