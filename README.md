@@ -8,7 +8,7 @@ You'll Need to Brag Yourself.](https://www.youtube.com/watch?v=xv3XnW_eDJI)
 
 ## Years
 
-Brag ในแต่ละปี (เรียงจากล่าสุดไปเก่าสุด)
+Brag ในแต่ละปี (เรียงปีจากล่าสุดไปเก่าสุด)
 
 * [2023](2023.md)
 * [2022](2022.md)
