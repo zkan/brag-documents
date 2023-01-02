@@ -5,6 +5,8 @@ document](https://jvns.ca/blog/brag-documents/)
 
 ## Years
 
+Brag ในแต่ละปี (เรียงจากล่าสุดไปเก่าสุด)
+
 * [2023](2023.md)
 * [2022](2022.md)
 * [2021](2021.md)
