@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Kan's Brag Docs
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
