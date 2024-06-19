@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# Welcome to Kan's Brag Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Inspired by [Get your work recognized: write a brag
+document](https://jvns.ca/blog/brag-documents/)
 
-## Commands
+Watch my talk about bragging: [Doing Great Work at Your Job isn't Enough.
+You'll Need to Brag Yourself.](https://www.youtube.com/watch?v=xv3XnW_eDJI)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Years
 
-## Project layout
+Brag ในแต่ละปี (เรียงปีจากล่าสุดไปเก่าสุด)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [2024](2024.md)
+* [2023](2023.md)
+* [2022](2022.md)
+* [2021](2021.md)
+* [2020](2020.md)
+* [2019](2019.md)
