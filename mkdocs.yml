@@ -2,3 +2,11 @@ site_name: Kan Ouivirach - Brag Docs
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+nav:
+  - Home: index.md
+  - 2024: 2024.md
+  - 2023: 2023.md
+  - 2022: 2022.md
+  - 2021: 2021.md
+  - 2020: 2020.md
+  - 2019: 2019.md
