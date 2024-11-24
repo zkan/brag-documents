@@ -6,6 +6,17 @@ site_url: https://zkan.github.io/brag-documents/
 theme:
   name: material
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
 plugins:
   - git-authors:
       show_email_address: false
