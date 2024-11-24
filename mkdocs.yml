@@ -1,7 +1,17 @@
+repo_name: zkan/brag-documents
+repo_url: https://github.com/zkan/brag-documents
 site_name: Kan Ouivirach - Brag Docs
-site_url: https://mydomain.org/mysite
+site_url: https://zkan.github.io/brag-documents/
+
 theme:
   name: material
+
+plugins:
+  - git-authors:
+      show_email_address: false
+  - git-revision-date-localized:
+      enable_creation_date: false
+
 nav:
   - Home: index.md
   - 2024: 2024.md
