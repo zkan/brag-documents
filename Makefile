@@ -1,5 +1,5 @@
 serve:
-	poetry run mkdocs serve
+	mise exec uv -- uv run mkdocs serve
 
 export:
-	poetry export --without-hashes --format=requirements.txt > requirements.txt
+	mise exec uv -- uv pip freeze > requirements.txt
