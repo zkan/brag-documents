@@ -1,7 +1,7 @@
-repo_name: zkan/brag-docs
-repo_url: https://github.com/zkan/brag-docs
+repo_name: zkan/brag-documents
+repo_url: https://github.com/zkan/brag-documents
 site_name: Kan Ouivirach - Brag Docs
-site_url: https://zkan.github.io/brag-docs
+site_url: https://zkan.github.io/brag-documents
 
 theme:
   name: material
