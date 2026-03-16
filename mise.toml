@@ -1,6 +1,9 @@
 [tools]
 uv = "0.9.0"
 
+[tasks.sync]
+run = "mise exec uv -- uv sync"
+
 [tasks.serve]
 run = "mise exec uv -- uv run mkdocs serve"
 
